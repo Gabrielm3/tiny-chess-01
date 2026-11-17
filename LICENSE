@@ -1,0 +1,6 @@
+SPDX-License-Identifier: GPL-3.0-only
+
+This is a fork of sunfish (https://github.com/thomasahle/sunfish),
+Copyright (c) Thomas Ahle and contributors, licensed under the GNU
+General Public License v3.0 only. The full license text is available
+at https://www.gnu.org/licenses/gpl-3.0.html.
